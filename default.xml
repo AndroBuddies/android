@@ -515,7 +515,7 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
-  <project path="device/jiayu/g4s" name="batsilos/android_device_jiayu_g4s" revision="cm-13.0" />
-  <project path="vendor/jiayu/g4s" name="batsilos/android_vendor_jiayu_g4s" revision="cm-13.0" />
+  <project path="device/evercoss/a66a" name="AndroBuddies/android_device_evercoss_a66a" revision="cm-13.0" />
+  <project path="vendor/evercoss/a66a" name="AndroBuddies/android_vendor_evercoss_a66a" revision="cm-13.0" />
 
 </manifest>
